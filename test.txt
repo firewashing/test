@@ -1,0 +1,6 @@
+git init
+git commit
+can init see init hah1
+kiss
+wohj=jsalkfjaskljfd
+haslfkjjdsahfu4e
